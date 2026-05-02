@@ -1,8 +1,7 @@
-# Hi there! I'm Aman Chaudhary 👋
+# Hello Everyone,
+  This is Aman. I love tackling problems related to ML and AI. 
 
-I am a graduate student in Applied Computer Science with a background in Biophysics, Machine Learning, and Embedded Security. My work focuses on building practical machine learning systems, research-grade AI pipelines, and deployable applications for real-world problems.
-
-I am especially interested in **medical AI, radiomics, ECG-based authentication, machine learning deployment, speech recognition, and embedded system security**.
+I am mostly interested in **medical AI, radiomics, ECG-based authentication, machine learning deployment, speech recognition, and embedded system security** and would love to collaborate.
 
 ## Tech Stack
 
@@ -10,10 +9,7 @@ I am especially interested in **medical AI, radiomics, ECG-based authentication,
 `Python` `Machine Learning` `Data Science` `Medical AI` `Radiomics` `Embedded Security`
 
 ### Languages
-`Python` `C` `C++` `SQL` `JavaScript Basics`
-
-### Currently Learning
-`TypeScript` `ReactJS` `Next.js` `Tailwind CSS`
+`Python` `C` `C++` `SQL` , `JS`
 
 ### Machine Learning & Data Science
 `Scikit-learn` `XGBoost` `Pandas` `NumPy` `Statsmodels` `Matplotlib` `PyTorch` `TensorFlow`
@@ -27,18 +23,11 @@ I am especially interested in **medical AI, radiomics, ECG-based authentication,
 ## Research & Projects
 
 - Radiomics-based lung nodule malignancy classification
-- ECG biometric authentication with post-quantum cryptography
+- ECG biometric authentication 
 - Real-time Whisper ASR and closed-captioning systems
 - Multimodal medical AI applications with RAG-based reasoning
 - Embedded security and firmware development
 
-## Current Focus
-
-- Improving my machine learning and deployment skills
-- Building practical AI applications with Python
-- Learning modern web development using React, Next.js, and TypeScript
-- Exploring real-time AI deployment on edge devices
-
 ## Let's Connect!
 
-[LinkedIn](#) • [GitHub](#) • [LeetCode](#) • [Kaggle](#)
+[LinkedIn](https://www.linkedin.com/in/aman-chaudhary-4a9621163) • [GitHub](https://github.com/aerofa45) • [Hugging Face](https://huggingface.co/aerofa24)
