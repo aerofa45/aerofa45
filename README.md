@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My Domain, Fellow Visitors! 👋</h1>
+<h1 align="center">Welcome to My Domain, Fellow Visitors! </h1>
 
 This is Aman. I love tackling problems related to DataScience, ML and AI. 
 
