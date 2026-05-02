@@ -30,4 +30,6 @@ I am mostly interested in **medical AI, radiomics, ECG-based authentication, mac
 
 ## Let's Connect!
 
-[LinkedIn](https://www.linkedin.com/in/aman-chaudhary-4a9621163) • [GitHub](https://github.com/aerofa45) • [Hugging Face](https://huggingface.co/aerofa24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-chaudhary-4a9621163)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/aerofa45)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Spaces-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/aerofa24)
