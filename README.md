@@ -18,7 +18,7 @@ I am mostly interested in **medical AI, radiomics, ECG-based authentication, mac
 `Gradio` `Streamlit` `Docker` `Hugging Face Spaces` `GitHub` `Google Colab` `Jupyter Notebook`
 
 ### Embedded & Security
-`UART` `OpenOCD` `MSPM0` `Firmware Development` `Post-Quantum Cryptography` `HSM`
+`UART` `OpenOCD` `MSPM0` `Firmware Development` `HSM`
 
 ## Research & Projects
 
