@@ -1,4 +1,4 @@
-# Hello Everyone,
+# Hello ,
   This is Aman. I love tackling problems related to ML and AI. 
 
 I am mostly interested in **medical AI, radiomics, ECG-based authentication, machine learning deployment, speech recognition, and embedded system security** and would love to collaborate.
