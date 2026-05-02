@@ -15,7 +15,7 @@ I am mostly interested in **medical AI, radiomics, ECG-based authentication, mac
 `Scikit-learn` `XGBoost` `Pandas` `NumPy` `Statsmodels` `Matplotlib` `PyTorch` `TensorFlow`
 
 ### Web & Deployment
-`Gradio` `Streamlit` `Docker` `Hugging Face Spaces` `GitHub` `Google Colab` `Jupyter Notebook`
+`Gradio` `Streamlit` `Docker` `Hugging Face Spaces` `GitHub` `Google Colab` `Jupyter Notebook` `TypeScript`
 
 ### Embedded & Security
 `UART` `OpenOCD` `MSPM0` `Firmware Development` `HSM`
